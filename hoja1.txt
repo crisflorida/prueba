@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 0 saaaa 3
+=======
+0 sifaau 3
+>>>>>>> eefe4e868d5f0e5b5d7c0267043e5f55a35b71b6
 
